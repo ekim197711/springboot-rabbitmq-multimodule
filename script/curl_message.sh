@@ -1,0 +1,1 @@
+curl -d "Another message :-)" "localhost:9080/api/message"

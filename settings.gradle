@@ -1,0 +1,3 @@
+rootProject.name = 'rabbitmq-multimodules'
+include 'rmq-producer'
+include 'rmq-consumer'
