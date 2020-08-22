@@ -1,0 +1,1 @@
+curl "localhost:9080/api/generate/100"

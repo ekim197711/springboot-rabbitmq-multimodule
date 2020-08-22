@@ -11,13 +11,5 @@
         <module name="rabbitmq-multimodules.rmq-producer.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="com.example.demo" target="14" />
-      <module name="com.example.demo.main" target="14" />
-      <module name="com.example.demo.test" target="14" />
-      <module name="demo" target="14" />
-      <module name="demo.main" target="14" />
-      <module name="demo.test" target="14" />
-    </bytecodeTargetLevel>
   </component>
 </project>
